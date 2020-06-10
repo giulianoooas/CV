@@ -5,7 +5,7 @@
 	justify-content:flex-start;
 	font-family:Arial;
 	font-size:20px;
-	text-decoration:bold;
+	font-weight:bold;
 }
 .orientare{
 	display:flex;
@@ -91,7 +91,6 @@ img{
 }
 table, th, td {
 	border-bottom: 1px solid #ddd;
-	padding:12 px;
 	border-spacing:15px;
 }
 .tabel1, .tabel2{
